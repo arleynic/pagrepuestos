@@ -1,1 +1,3 @@
 este es mi primer texto configurando Git.
+
+segunda linea para prueba de consulta y commit
